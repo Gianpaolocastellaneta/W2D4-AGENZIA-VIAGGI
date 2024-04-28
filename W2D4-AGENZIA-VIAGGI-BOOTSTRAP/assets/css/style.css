@@ -1,0 +1,36 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+#navbarSupportedContent>ul>li>a {
+    color: black;
+}
+
+.card {
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.card-img-top {
+    border-radius: 10px;
+}
+
+#jumbotron {
+    background-color: rgb(205, 205, 235);
+
+}
+
+span {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.card-welcome-summer {
+    box-shadow: 0px 4px 30px rgba(0, 0, 1, 0.9);
+}
+
+hr {
+    border: 1px solid black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
